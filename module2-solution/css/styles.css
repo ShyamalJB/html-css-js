@@ -31,6 +31,7 @@ margin: 30px 0 px 30px 0px;
  
  }
 div{
+overflow:none;
 background-color:rgb(153,153,153);
 border:2px solid black;
 display:inline-block;
@@ -45,16 +46,14 @@ font-size:medium;
 width:85%;
 }
 #title1{
-
  font-family:sans-serif;
  color:black;
  background-color:rgb(213,152,152);
  padding:7px;
  border: 2px solid black;
- display: block;
- overflow:none;
- clear:left;
- float:right;
+ display: inline-block;
+ position:relative;
+ left:70%;
  padding:5px;
 }
 
@@ -64,22 +63,21 @@ width:85%;
  color:white;
  padding:7px;
  border: 2px solid black;
- display: block;
- overflow:none;
- float:right;
+ display: inline-block;
+ position:relative;
+ left:80%;
  padding:5px;
 }
 
 #title3{
-
   font-family:sans-serif;
   color:black;
   background-color:rgb(229,209,152);
   padding:7px;
   border: 2px solid black;
-  display: block;
-  overflow:none;
-  float:right;
+  display: inline-block;
+  position:relative;
+  left:75%;
   padding:5px;
  }
 
