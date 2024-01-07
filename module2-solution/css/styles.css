@@ -53,6 +53,7 @@ width:85%;
  border: 2px solid black;
  display: block;
  overflow:none;
+ clear:left;
  float:right;
  padding:5px;
 }
