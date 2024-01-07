@@ -51,9 +51,9 @@ width:85%;
  background-color:rgb(213,152,152);
  padding:7px;
  border: 2px solid black;
- display: inline-block;
- position: relative;
- left:70%;
+ display: block;
+ overflow:none;
+ float:right;
  padding:5px;
 }
 
@@ -63,9 +63,9 @@ width:85%;
  color:white;
  padding:7px;
  border: 2px solid black;
- display: inline-block;
- position: relative;
- left:80%;
+ display: block;
+ overflow:none;
+ float:right;
  padding:5px;
 }
 
@@ -76,9 +76,9 @@ width:85%;
   background-color:rgb(229,209,152);
   padding:7px;
   border: 2px solid black;
-  display: inline-block;
-  position: relative;
-  left:70%;
+  display: block;
+  overflow:none;
+  float:right;
   padding:5px;
  }
 
