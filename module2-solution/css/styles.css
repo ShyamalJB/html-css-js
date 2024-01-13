@@ -35,15 +35,17 @@ overflow:none;
 background-color:rgb(153,153,153);
 border:2px solid black;
 display:inline-block;
-vertical-align: top;
+vertical-align:top;
 margin:10px;
- }
+}
 
-div > p{
+div p{
 padding:5px;
 font-family:sans-serif;
 font-size:medium;
 width:85%;
+float:left;
+clear:right;
 }
 #title1{
  font-family:sans-serif;
@@ -51,9 +53,7 @@ width:85%;
  background-color:rgb(213,152,152);
  padding:7px;
  border: 2px solid black;
- display: inline-block;
- position:relative;
- left:70%;
+ float:right;
  padding:5px;
 }
 
@@ -63,9 +63,7 @@ width:85%;
  color:white;
  padding:7px;
  border: 2px solid black;
- display: inline-block;
- position:relative;
- left:80%;
+ float:right;
  padding:5px;
 }
 
@@ -75,9 +73,7 @@ width:85%;
   background-color:rgb(229,209,152);
   padding:7px;
   border: 2px solid black;
-  display: inline-block;
-  position:relative;
-  left:75%;
+  float:right;
   padding:5px;
  }
 
