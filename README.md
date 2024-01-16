@@ -3,3 +3,6 @@ This is a repo made by Shyamal Jyoti Buragohain for submitting the solutions of 
 
 To view Module 2 solution, go to
 https://shyamaljb.github.io/html-css-js/module2-solution/
+
+To view Module 3 solution, go to
+https://shyamaljb.github.io/html-css-js/module3-solution/
