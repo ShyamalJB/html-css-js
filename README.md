@@ -6,3 +6,6 @@ https://shyamaljb.github.io/html-css-js/module2-solution/
 
 To view Module 3 solution, go to
 https://shyamaljb.github.io/html-css-js/module3-solution/
+
+To view Module 4 solution, go to
+https://shyamaljb.github.io/html-css-js/module4-solution/
